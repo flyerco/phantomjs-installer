@@ -189,7 +189,7 @@ class Installer
             }
 
             if ($bitsize === 64) {
-                $url = 'https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-' . $version . '-linux-x86_64.tar.bz2';
+                $url = 'https://github.com/eugene1g/phantomjs/releases/download/2.0.0-bin/phantomjs-' . $version . '-centos_x86_64.zip';
             }
         }
 
